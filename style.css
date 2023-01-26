@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+button{
+    background-color: yellow;
+    font-weight: bold;
+}
